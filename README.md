@@ -1,2 +1,2 @@
-# Webpage-with-JS-PHP-MySQL
+# Webpage(JS,PHP,MySQL) Practice
 Webpage connected with PHP, MySQL
